@@ -37,6 +37,7 @@ export const experiences = [
     period: "May 2023 - Present",
     isCurrent: true,
     points: [
+      "Developed a landing page and mini CRM system for BogoJaya Farm to support lead generation and customer management.",
       "Designed UI Website PMB Universitas Budi Luhur.",
       "Developed dashboard CMS PMB Universitas Budi Luhur Using Laravel 10.",
       "Design and developed Asia Grassroots Forum 2024 by Amartha (asiagrassrootsforum.com).",

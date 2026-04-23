@@ -9,7 +9,7 @@ const featuredProjects = [
     subtitle: 'AI Solution — Workflow Automation',
     description:
       'Designed and built AI-driven workflows for automated content generation, improving content creation efficiency and scalability across multiple Tradeasia websites.',
-    image: '/images/project-ai-solution.png',
+    image: '/images/AI generation.png',
     tags: ['AI / ML', 'Laravel', 'SEO', 'Automation'],
     icon: <Sparkles size={18} />,
     color: '#a855f7',
@@ -21,7 +21,7 @@ const featuredProjects = [
     subtitle: 'Business Website — bogojayafarm.id',
     description:
       'Developed a complete business website for Bogojaya Farm with modern design, product catalog, and integrated contact form connected to Google Sheets.',
-    image: '/images/project-bogojayafarm.png',
+    image: '/images/bogojaya.png',
     tags: ['React', 'Vite', 'Vercel', 'Google Sheets API'],
     icon: <Globe size={18} />,
     color: '#22c55e',
@@ -33,7 +33,7 @@ const featuredProjects = [
     subtitle: 'Information System — Full Stack App',
     description:
       'Built an integrated monitoring and transaction system for a laundry business using Laravel 10. Features order tracking, customer management, and revenue dashboard.',
-    image: '/images/project-laundry.png',
+    image: '/images/laundrysaee.png',
     tags: ['Laravel 10', 'MySQL', 'Dashboard', 'CRUD'],
     icon: <BarChart3 size={18} />,
     color: '#3b82f6',
@@ -72,7 +72,7 @@ export default function FeaturedWork() {
           <div>
             <div className="section-label">
               <span className="label-line"></span>
-              Best Work
+              Latest Work
             </div>
             <h2 className="section-title">Featured Projects</h2>
           </div>
